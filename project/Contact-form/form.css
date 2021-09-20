@@ -1,0 +1,38 @@
+.span1{
+    font-size: 72px;
+}
+
+.form-container{
+    background-color: bisque;
+}
+
+.bg-redtype
+{
+    background-color: cornflowerblue;
+}
+
+.bg-redtype:hover{
+    color: cornsilk;
+}
+
+.footer
+{
+    background-color: rgb(247, 154, 247);
+}
+
+.circle
+{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color:cornsilk;
+    font-size: 40px;
+    text-align: center;
+    color: teal;
+}
+
+.circle:hover{
+    background-color: thistle;
+    color: blueviolet;
+}

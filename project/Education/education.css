@@ -1,0 +1,18 @@
+.education-container{
+    background-color: rgb(155, 214, 216);
+}
+
+.bg-redtype{
+    background-color: bisque;
+}
+
+.redtype-color{
+    color: black;
+}
+
+.circle{
+    background-color: rgb(238, 135, 152);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
